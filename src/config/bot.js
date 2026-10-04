@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         name: "gg./K5Kk7xEPEA", // required by Discord API, not shown in the client
-        state: "gg./K5Kk7xEPEA",     // this is what people actually see
+        state: "mochi district",     // this is what people actually see
         type: 4,               // Custom
       },
     ],
